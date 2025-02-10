@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd1ab36e-f629-4410-b4f8-6d3b357ff504" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/about/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/about/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/about/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/about/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/close-icon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/header-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logos/facebook.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logos/google.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logos/ibm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logos/microsoft.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/map-image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/navbar-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739209073548</updated>
-      <workItem from="1739209074723" duration="4332000" />
+      <workItem from="1739209074723" duration="5069000" />
     </task>
     <servers />
   </component>
